@@ -1,0 +1,22 @@
+.resume-photo-style{
+float:right;
+}
+tr th{
+text-align:center;
+width:151px;
+padding:5px 5px 5px 5px;
+}
+tr td{
+text-align:center;
+width:151px;
+padding:5px 5px 5px 5px;
+border-top:2px solid;
+}
+table{
+ border:2px solid;
+}
+
+.full-style{
+border-left:2px solid;
+border-right:2px solid;
+}
